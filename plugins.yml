@@ -1,0 +1,9 @@
+name: IslandPlugin
+main: com.example.islandplugin.IslandPlugin
+version: 1.0
+description: 마인크래프트 섬 생성 플러그인
+
+commands:
+  섬:
+    description: 섬 관련 명령어
+    usage: /섬 <생성|설정|이동>
