@@ -1,0 +1,6 @@
+island:
+  default-size: 25
+  upgrade-cost:
+    size-increase: 50000
+    player-increase: 50000
+    buff: 300000
